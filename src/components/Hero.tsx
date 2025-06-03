@@ -92,7 +92,7 @@ const Hero: React.FC = () => {
           >
             <div className="relative w-[300px] h-[380px] bg-orange-500 rounded-2xl overflow-hidden">
               <img 
-                  src="src\components\Image\1000060333-removebg-preview.png"
+                  src="src\components\1000060333-removebg-preview.png"
                 alt="Profile" 
                 className="w-full h-full object-cover"
               />
