@@ -52,7 +52,7 @@ const projectsData: Project[] = [
 ];
 
 const ProjectCard: React.FC<{ project: Project }> = ({ project }) => {
-  const [isHovered, setIsHovered] = useState(false);
+  const [, setIsHovered] = useState(false);
   
   return (
     <motion.div
